@@ -28,6 +28,7 @@
 | [第8章 LLM の推論と活用](08-llm-inference-and-application/) | Self-Consistency の効果検証 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryokan0123/nlp-illustrated/blob/main/08-llm-inference-and-application/task1_self_consistency_verification.ipynb) |
 |  | 外部ツールの統合 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryokan0123/nlp-illustrated/blob/main/08-llm-inference-and-application/task2_external_tools_integration.ipynb) |
 | [第9章 LLM の評価と安全性](09-llm-evaluation-and-safety/) | LLM-as-a-Judge による自動評価 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryokan0123/nlp-illustrated/blob/main/09-llm-evaluation-and-safety/task1_llm_as_a_judge.ipynb) |
+|  | レッドチーミング：架空の合言葉を聞き出そうとする実験 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryokan0123/nlp-illustrated/blob/main/09-llm-evaluation-and-safety/task2_red_teaming.ipynb) |
 | [第10章 マルチモーダル LLM](10-multimodal-llm/) | 視覚言語モデルによる画像質問応答 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryokan0123/nlp-illustrated/blob/main/10-multimodal-llm/task1_vlm.ipynb) |
 
 ## リンク
