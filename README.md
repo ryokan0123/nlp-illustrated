@@ -10,7 +10,7 @@
 ## コード
 
 各課題の「Open in Colab」から Google Colab で開き、上から順にセルを実行してください。
-現在は第1〜5章の演習を公開しています。6章以降は近日公開です。
+第1〜10章の演習ノートブックを公開しています。
 
 | 章 | 課題 | Colab |
 | --- | --- | --- |
@@ -22,6 +22,13 @@
 |  | ニューラル N-gram 言語モデルの学習 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryokan0123/nlp-illustrated/blob/main/04-neural-network/task2_neural_ngram_lm.ipynb) |
 | [第5章 Transformer](05-transformer/README.md) | Transformer の実装 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryokan0123/nlp-illustrated/blob/main/05-transformer/task1_transformer_implementation.ipynb) |
 |  | BERT による多義語の区別 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryokan0123/nlp-illustrated/blob/main/05-transformer/task2_bert_polysemy.ipynb) |
+| [第6章 アクセラレータと分散学習](06-distributed-learning/) | CPU と GPU の比較 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryokan0123/nlp-illustrated/blob/main/06-distributed-learning/task1_cpu_gpu_comparison.ipynb) |
+|  | データ並列の実装 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryokan0123/nlp-illustrated/blob/main/06-distributed-learning/task2_data_parallel.ipynb) |
+| [第7章 LLM の学習](07-llm-training/) | 指示チューニング | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryokan0123/nlp-illustrated/blob/main/07-llm-training/task1_instruction_tuning.ipynb) |
+| [第8章 LLM の推論と活用](08-llm-inference-and-application/) | Self-Consistency の効果検証 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryokan0123/nlp-illustrated/blob/main/08-llm-inference-and-application/task1_self_consistency_verification.ipynb) |
+|  | 外部ツールの統合 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryokan0123/nlp-illustrated/blob/main/08-llm-inference-and-application/task2_external_tools_integration.ipynb) |
+| [第9章 LLM の評価と安全性](09-llm-evaluation-and-safety/) | LLM-as-a-Judge による自動評価 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryokan0123/nlp-illustrated/blob/main/09-llm-evaluation-and-safety/task1_llm_as_a_judge.ipynb) |
+| [第10章 マルチモーダル LLM](10-multimodal-llm/) | 視覚言語モデルによる画像質問応答 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryokan0123/nlp-illustrated/blob/main/10-multimodal-llm/task1_vlm.ipynb) |
 
 ## リンク
 
